@@ -8,8 +8,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.List;
 
 @NoArgsConstructor
@@ -20,16 +18,9 @@ public class Question {
     @Id @GeneratedValue
     private Long id;
     private String difficulty;
-    private String intitule;
+    private String entitled;
     @OneToMany
     private List<Answer> answers;
     private int value;
 }
 
-@Entity
-class Answer{
-    @Id
-    private Long id;
-    private String text;
-    private boolean rightAnswer;
-}
