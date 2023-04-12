@@ -1,1 +1,32 @@
-[  {    "question": "Quel est l'opérateur de comparaison en Python pour tester si deux valeurs sont égales?",    "options": {      "a": "==",      "b": "=",      "c": "!=",      "d": "<>"    },    "answer": "a"  },  {    "question": "Quel est le type de données en Python qui peut contenir des éléments de différents types?",    "options": {      "a": "list",      "b": "tuple",      "c": "set",      "d": "dictionary"    },    "answer": "a"  },  {    "question": "Quelle est la méthode en Python pour ajouter un élément à la fin d'une liste?",    "options": {      "a": "append()",      "b": "add()",      "c": "insert()",      "d": "push()"    },    "answer": "a"  },  {    "question": "Quel est le résultat de l'expression 2**3 en Python?",    "options": {      "a": "6",      "b": "8",      "c": "12",      "d": "23"    },    "answer": "b"  },  {    "question": "Quelle est la fonction en Python pour obtenir la longueur d'une chaîne de caractères?",    "options": {      "a": "length()",      "b": "len()",      "c": "size()",      "d": "count()"    },    "answer": "b"  }]
+[
+  {
+    "question": "Quel est l'opérateur de comparaison en Python pour tester si deux valeurs sont égales?",
+    "options": { "a": "==", "b": "=", "c": "!=", "d": "<>" },
+    "answer": "a"
+  },
+  {
+    "question": "Quel est le type de données en Python qui peut contenir des éléments de différents types?",
+    "options": { "a": "list", "b": "tuple", "c": "set", "d": "dictionary" },
+    "answer": "a"
+  },
+  {
+    "question": "Quelle est la méthode en Python pour ajouter un élément à la fin d'une liste?",
+    "options": {
+      "a": "append()",
+      "b": "add()",
+      "c": "insert()",
+      "d": "push()"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Quel est le résultat de l'expression 2**3 en Python?",
+    "options": { "a": "6", "b": "8", "c": "12", "d": "23" },
+    "answer": "b"
+  },
+  {
+    "question": "Quelle est la fonction en Python pour obtenir la longueur d'une chaîne de caractères?",
+    "options": { "a": "length()", "b": "len()", "c": "size()", "d": "count()" },
+    "answer": "b"
+  }
+]
